@@ -78,10 +78,3 @@ $nearestSubway = $getNearestSubway($geocode);
 print_r($geocode);
 print_r($nearestSubway);
 
-/* 
-Array
-(
-    [city] => Санкт-Петербург
-    [geocode] => Array
-        (
-            [lat] => 59.935641
